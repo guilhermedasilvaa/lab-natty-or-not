@@ -15,6 +15,7 @@ Primeiro fui ate o ElevenLabs, e criei o aúdio com a voz e o texto que queria, 
 
 ## 🚀 Resultados
 o projeto me deu uma visão mais ampla do que são as IAs generativas, e diversas idéias de como utilizalas da melhor maneira!
+[LINK PARA O VÍDEO AQUI]()
 
 ## 💭 Reflexão (Opcional)
 Foi um grande desafio e aprendizado, e me mostrando o tamanho do poder que as IAs tem, e que essa evolução é muito mais benéfica do que maléfica, podendo ajudar a humanidade a chegar a niveis nunca antes imaginados!
