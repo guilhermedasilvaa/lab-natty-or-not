@@ -22,7 +22,7 @@ Foi um grande desafio e aprendizado, e me mostrando o tamanho do poder que as IA
 
 ### Exemplos e Insigths
 
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Vídeo (Avatar Virtual)](/exemplos/avatar_virtual.mp4)
 
 ## Links Interessantes
 
